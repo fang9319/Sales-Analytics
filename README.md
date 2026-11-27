@@ -8,4 +8,4 @@
    | Britten | Team Charter Coordinator| Win |
    | Joan | Portfolio Structure + Documentation| Win |
 ## Our goal
-   Clean, analyse and present UrbanStyle.ltd data
+   Clean, analyse and present UrbanStyle.ltd data; To advance our knowledge of various aspects of Data Analysis through simulation of UrbanStyle.ltd.
